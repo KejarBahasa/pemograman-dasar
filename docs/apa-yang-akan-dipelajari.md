@@ -5,16 +5,6 @@ sidebar_position: 1
 
 # Apa yang akan di pelajari
 
-## Dasar Pemograman untuk web
-
-- Understand how websites work and how HTML, CSS and
-  JavaScript contribute.
-- Understand how the internet works and how websites are
-  served.
-- Learn to use git, GitHub and version control.
-- Learn key troubleshooting and debugging skills to apply to
-  your projects.
-
 ## HTML 5
 
 - Learn the anatomy of HTML syntax to structure your
